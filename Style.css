@@ -35,7 +35,7 @@
 
 .nome2{
     position: absolute;
-    top: 600px; 
+    top: 500px; 
     left: 450px;
     color: rgb(117, 57, 97);
 }
@@ -49,7 +49,7 @@
 
 .ph2{
     position: absolute;
-    top: 650px;
+    top: 550px;
     left: 500px;
     border-radius: 15px;
 }
@@ -63,7 +63,19 @@
 
 .bio2{
     position: absolute;
-    top: 650px;
-    left: 915px;
+    top: 550px;
+    left: 815px;
+    color: rgb(75, 25, 75);
+}
 
+.yts1{
+    position: absolute;
+    top: 470px;
+    left: 840px;
+}
+
+.yts2{
+    position: absolute;
+    top: 930px;
+    left: 770px;
 }
